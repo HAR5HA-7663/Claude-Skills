@@ -975,5 +975,3 @@ async function html2pptx(htmlFile, pres, options = {}) {
     throw error;
   }
 }
-
-module.exports = html2pptx;
